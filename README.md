@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+## Prerequisites:
+1. Install axios using command :  npm install axios
+2. Create an account on [OpenWeatherMap](https://openweathermap.org/).
+3. After creating an account, copy the API key and paste it in Home.js instead of "Your_API_KEY". [Note: Enter the key without the double quotation mark (")].
+4. Run the command 'npm start', and you're all set.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
