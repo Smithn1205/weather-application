@@ -1,10 +1,42 @@
-# Getting Started with Create React App
+# Weather Application
 
-## Prerequisites:
-1. Install axios using command :  npm install axios
+A simple weather application built using React.js that provides current weather information for a given location.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Contributing](#contributing)
+
+## Features
+
+- Provides current weather information including temperature, conditions, and humidity.
+- User-friendly interface with a search bar to enter location.
+- Real-time weather data retrieved from a third-party API.
+- Responsive design for various screen sizes.
+
+## Technologies Used
+
+- [React.js](https://reactjs.org/) for building the user interface.
+- [OpenWeather API](https://openweathermap.org/api) for retrieving weather data.
+- [Axios](https://axios-http.com/) for making HTTP requests.
+
+## Installation
+
+1. Install axios using command :  `npm install axios`
+  
 2. Create an account on [OpenWeatherMap](https://openweathermap.org/).
+   
 3. After creating an account, copy the API key and paste it in "Home.js" instead of "Your_API_KEY". [Note: Enter the key without the double quotation mark (")].
+   
 4. Run the command 'npm start', and you're all set.
+
+## Contributing
+
+Contributions are welcome! If you have any improvements or feature suggestions, please open an issue or create a pull request.
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
